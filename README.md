@@ -1,6 +1,6 @@
 # 🏠 Predicting House Prices using Linear Regression
 
-![House Price Prediction](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/house_price_banner.png)
+[House Price Prediction](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/house_price_banner.png)
 
 ## 📌 Overview
 The goal of this project is to develop a **Linear Regression model** that predicts the price of a house (in $1000s) based purely on **numerical property and neighborhood attributes**.
